@@ -15,11 +15,13 @@
 
 <h3> Back-end </h3>
 <ul>
+<li>Node.js</li>
 <li>express</li>
 <li>mongoDB</li>
 <li>mongoose</li>
 <li>passport</li>
 <li>passport-local</li>
+<li>passport-local-mongoose</li>
 <li>method-override</li>
 <li>connect-flash</li>
 </ul>
